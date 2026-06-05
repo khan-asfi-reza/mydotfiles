@@ -1,0 +1,3 @@
+# Machine-specific overrides - never commit
+**/.zshrc.local
+.DS_Store
